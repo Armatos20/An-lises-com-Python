@@ -13,12 +13,12 @@ identificação do cliente e métricas RFM.
 
   ## Sobre os dados ##
 
-| Coluna | Descrição |
-----------------------
-| CustomerID | Código de identificação do cliente |
-| Description | Descrição do produto |
-| InvoiceNo | Código da fatura |
-| StockCode | Código de estoque do produto |
+| Coluna | Título   |
+| ------- | -------- |
+| CustomerID | Código de identificação do cliente|
+| Description | Descrição do Produto |
+| InvoiceNo | Código da Fatura |
+| StockCode | Código de Estoque do Produto |
 | Quantity | Quantidade do produto |
-| InvoiceDate | Data do faturamento (compra) |
-| UnitPrice | Preço unitário do produto |
+| InvoiceDate | Data de Faturamento (Compra) |
+| UnitPrice | Preço unitário do Produto |
