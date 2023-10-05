@@ -13,7 +13,7 @@ identificação do cliente e métricas RFM.
 
   ## Sobre os dados ##
 
-| Coluna | Título   |
+| Coluna | Descrição  |
 | ------- | -------- |
 | CustomerID | Código de identificação do cliente|
 | Description | Descrição do Produto |
