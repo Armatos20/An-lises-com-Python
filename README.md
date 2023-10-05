@@ -1,4 +1,4 @@
-# An-lises-com-Python
+# Tratamento de Dados (Data Cleaning and Data Wrangling)
 ## Contexto ##
 Uma empresa do ramo de e-commerce contratou você para levantar os indicadores de
 recência, frequência e ticket médio (RFM) dos seus clientes.
