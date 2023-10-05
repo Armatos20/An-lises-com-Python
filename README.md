@@ -1,4 +1,4 @@
-# Tratamento de Dados (Data Cleaning and Data Wrangling)
+# Tratamento de Dados (Data Cleaning and Data Wrangling) para análise e modelagem
 ## Contexto ##
 Uma empresa do ramo de e-commerce contratou você para levantar os indicadores de
 recência, frequência e ticket médio (RFM) dos seus clientes.
@@ -7,9 +7,8 @@ recência, frequência e ticket médio (RFM) dos seus clientes.
 * F (Frequency): Quantidade de compras realizadas pelo cliente
 * M (Monetary): Valor do ticket médio gasto pelo cliente
 onde ticket médio = média do total gasto por pedido para cada cliente.
-Para isso, vocês receberam uma base de dados (arquivo csv) e devem construir um
-código em Python que gera um output também csv, porém contendo apenas a
-identificação do cliente e métricas RFM.
+para isso utilizei uma base de dados (arquivo csv) e construi um
+código em Python que gera um output também csv.
 
   ## Sobre os dados ##
 
